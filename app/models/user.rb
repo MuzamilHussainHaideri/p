@@ -1,3 +1,3 @@
 class User < ApplicationRecord
-    paginates_per  5
+  paginates_per 5
 end
