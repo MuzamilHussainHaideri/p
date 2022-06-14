@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+ users = User.create([{name: 'Ahmed',father_name:'ali'},{name: 'Azeem',father_name:'khan'},{name: 'shahid',father_name:'mukhtar'},{name: 'Adnan',father_name:'sadique'}])
+ users = User.create([{name: 'Ahmed',father_name:'ali'},{name: 'Azeem',father_name:'khan'},{name: 'shahid',father_name:'mukhtar'},{name: 'Adnan',father_name:'sadique'}])
+ users = User.create([{name: 'Ahmed',father_name:'ali'},{name: 'Azeem',father_name:'khan'},{name: 'shahid',father_name:'mukhtar'},{name: 'Adnan',father_name:'sadique'}])
+ users = User.create([{name: 'Ahmed',father_name:'ali'},{name: 'Azeem',father_name:'khan'},{name: 'shahid',father_name:'mukhtar'},{name: 'Adnan',father_name:'sadique'}])
+ users = User.create([{name: 'Ahmed',father_name:'ali'},{name: 'Azeem',father_name:'khan'},{name: 'shahid',father_name:'mukhtar'},{name: 'Adnan',father_name:'sadique'}])
+ users = User.create([{name: 'Ahmed',father_name:'ali'},{name: 'Azeem',father_name:'khan'},{name: 'shahid',father_name:'mukhtar'},{name: 'Adnan',father_name:'sadique'}])
